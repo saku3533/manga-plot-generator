@@ -1,4 +1,4 @@
-import { MangaPlotGenerator } from "@/components/manga-plot-generator"
+import { MangaPlotGenerator } from "../components/manga-plot-generator";
 
 export default function Home() {
   return (
